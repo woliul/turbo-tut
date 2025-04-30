@@ -16,13 +16,13 @@ except ValueError:
 if age < 1:
     print("Aww! You're just a baby!")
 
-elif age <= 1 or age<= 12:
+elif 1 <= age <= 12:
         print("You're a child.")
 
-elif age <= 13 or age<= 17:
+elif 13 <= age <= 17:
         print("You're a teenager.")
 
-elif age <= 18 or age<= 59:
+elif 18 <= age <= 59:
         print("You're an adult.")
 
 else:
