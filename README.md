@@ -1,16 +1,13 @@
-# turbo-tut 🧭 Python Learning Plan for 12 Weeks to Job-Ready Dev
+# Turbo Tut 
+### 🧭 Python Learning Plan for 12 Weeks to Job-Ready Dev
 
-> 🎯 Goal: Become a real-world Python developer who understands backend, automation, and AI-era tools (not just syntax).
-
----
+🎯 Goal: Become a real-world Python developer who understands backend, automation, and AI-era tools (not just syntax).
 
 ## ✅ Your Profile:
 - Logic-ready: Background in C, PHP, Discord bots
 - Zero Python syntax skill — starting fresh
 - Wants a career path in AI-era development
 - Prefers structure and outcome-driven learning
-
----
 
 ## 📅 Weekly Roadmap Overview
 
@@ -29,15 +26,11 @@
 | **11** | Intro to AI APIs | ChatGPT API, automation with LLMs |
 | **12** | Portfolio + Hosting | GitHub, Vercel/Render, resume-ready projects |
 
----
-
 ## 🕒 Weekly Time Commitment Suggestion
 
 - 💼 **5 days/week**
 - ⏰ **1–2 hours/day**
 - 📦 **1 small project or exercise/week**
-
----
 
 ## ✅ Tools We'll Use
 - Python 3 (locally or online IDE like Replit/Google Colab/VSCode)
@@ -45,5 +38,3 @@
 - Flask for web apps
 - OpenAI/ChatGPT API (Week 11)
 - Deployment tools (Week 12)
-
----
